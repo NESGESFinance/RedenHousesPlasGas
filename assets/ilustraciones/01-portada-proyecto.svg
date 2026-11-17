@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">RedenHousesPlasGas: valorización responsable de residuos plásticos</title>
+  <desc id="desc">Ilustración conceptual de residuos plásticos que entran a una cadena circular de evaluación, preparación y conversión, con productos y controles por verificar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1f33"/><stop offset="1" stop-color="#123d49"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#43d6ad"/><stop offset="1" stop-color="#93e6a3"/></linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 10 5 0 10Z" fill="#43d6ad"/></marker>
+  </defs>
+  <rect width="1200" height="675" rx="28" fill="url(#bg)"/>
+  <circle cx="1000" cy="105" r="150" fill="#43d6ad" opacity=".08"/><circle cx="95" cy="590" r="190" fill="#93e6a3" opacity=".06"/>
+  <text x="80" y="100" fill="#a9c5d0" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">ECONOMÍA CIRCULAR · EVALUACIÓN INTEGRAL</text>
+  <text x="80" y="180" fill="#fff" font-family="Arial,sans-serif" font-size=" fifty" font-weight="700">RedenHouses</text>
+  <text x="80" y="244" fill="url(#accent)" font-family="Arial,sans-serif" font-size="54" font-weight="700">PlasGas</text>
+  <text x="82" y="295" fill="#d4e4e8" font-family="Arial,sans-serif" font-size="23">Una propuesta para analizar la valorización</text>
+  <text x="82" y="328" fill="#d4e4e8" font-family="Arial,sans-serif" font-size="23">de residuos plásticos mediante pirólisis</text>
+  <g transform="translate(95 405)">
+    <path d="M0 68 C100 5 180 5 260 65 S420 128 500 65" fill="none" stroke="#43d6ad" stroke-width="5" stroke-dasharray="10 11" marker-end="url(#arrow)"/>
+    <circle cx="0" cy="68" r="40" fill="#173d4d" stroke="#43d6ad" stroke-width="3"/><path d="M-15 58h30l-5 25h-20zM-11 50h22v8h-22z" fill="none" stroke="#d5f5e9" stroke-width="3"/>
+    <circle cx="165" cy="28" r="40" fill="#173d4d" stroke="#43d6ad" stroke-width="3"/><path d="M150 28h30M165 13v30M154 17l22 22M176 17l-22 22" stroke="#d5f5e9" stroke-width="3"/>
+    <circle cx="330" cy="98" r="40" fill="#173d4d" stroke="#43d6ad" stroke-width="3"/><path d="M315 108v-19h30v19M320 89v-9h20v9M325 99h10" fill="none" stroke="#d5f5e9" stroke-width="3"/>
+    <circle cx="500" cy="65" r="40" fill="#173d4d" stroke="#43d6ad" stroke-width="3"/><path d="M485 77c7-21 17-21 30 0M490 62c0-15 20-15 20 0M500 45v-8" fill="none" stroke="#d5f5e9" stroke-width="3"/>
+    <text x="-38" y="137" fill="#d4e4e8" font-family="Arial,sans-serif" font-size="16">RESIDUOS</text><text x="122" y="-22" fill="#d4e4e8" font-family="Arial,sans-serif" font-size="16">TRAZABILIDAD</text><text x="298" y="158" fill="#d4e4e8" font-family="Arial,sans-serif" font-size="16">ANÁLISIS</text><text x="462" y="128" fill="#d4e4e8" font-family="Arial,sans-serif" font-size="16">VALORACIÓN</text>
+  </g>
+  <rect x="730" y="390" width="390" height="145" rx="20" fill="#fff" opacity=".08" stroke="#8edcc6" stroke-opacity=".55"/>
+  <text x="765" y="435" fill="#93e6a3" font-family="Arial,sans-serif" font-size="19" font-weight="700">ENFOQUE DEL PROYECTO</text>
+  <text x="765" y="476" fill="#fff" font-family="Arial,sans-serif" font-size="21">Técnico · ambiental · social</text><text x="765" y="508" fill="#fff" font-family="Arial,sans-serif" font-size="21">y económico</text>
+  <text x="80" y="625" fill="#a9c5d0" font-family="Arial,sans-serif" font-size="15">ILUSTRACIÓN CONCEPTUAL · No representa diseño ni desempeño de una planta</text>
+</svg>
